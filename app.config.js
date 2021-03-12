@@ -10,6 +10,6 @@ export default {
   splash: {
     image: "./assets/images/splash.png",
     resizeMode: "cover",
-    backgroundColor: "#0e4368",
+    backgroundColor: "#00C3AE",
   },
 };
