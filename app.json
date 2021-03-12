@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FPB",
-    "slug": "fpb",
+    "name": "Grupo Menta - React Native Boilerplate",
+    "slug": "menta-rn-boilerplate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
